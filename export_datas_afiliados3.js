@@ -11,7 +11,7 @@
 **      - Seleciona todas as campanhas e envia para a planilha    
 **      - PLANILHA: https://docs.google.com/spreadsheets/d/1spc9mInN4bXlV3gcdQgDQUHDSxMS1XHumGzASQLhRBw/
 **  
-**   > AFILIADOS 4 <
+**   > AFILIADOS 3 <
 **  
 *****************************************************************************/
 
@@ -24,7 +24,7 @@ var email = "felipe@sweetleads.com.br";
 
 // IMPORTANT: Set the date correctly for each ads account
 // CHANGE HERE start date -> 06/09/20
-var DURING_START_DATE = 20200906;
+var DURING_START_DATE = 20200906; //yyyymmdd
 
 //var STANDARD_BACKFILL_DAYS = 3;  
 
